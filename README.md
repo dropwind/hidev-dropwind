@@ -50,4 +50,4 @@ to the require section of your composer.json.
 This project is released under the terms of the proprietary [license](LICENSE).
 Read more [here](https://en.wikipedia.org/wiki/Proprietary_software).
 
-Copyright © 2014-2017, DropWind (http://dropwind.com/)
+Copyright © 2017, DropWind (http://dropwind.com/)
